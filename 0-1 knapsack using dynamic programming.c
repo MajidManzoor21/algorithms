@@ -1,4 +1,4 @@
-//ishfaq ahmad
+
 
 #include <stdio.h>
 
